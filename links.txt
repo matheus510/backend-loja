@@ -1,0 +1,6 @@
+ae seu lixo, olha os links se precisares:
+
+Video do tutorial: https://www.youtube.com/watch?v=DHUxnUX7Y2Y
+
+repositorio do tutorial: https://github.com/bradtraversy/slimapp/blob/master/src/routes/customers.php
+
