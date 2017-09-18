@@ -1,2 +1,0 @@
-# loja-back
-back loja
